@@ -1,0 +1,50 @@
+
+// nft creation
+  nft_creation:
+  byte "Title"
+  byte ""
+  app_global_put
+
+  byte "Artist"
+  byte ""
+  app_global_put
+
+  byte "Created at"
+  byte ""
+  app_global_put
+
+  byte "Owner"
+  global CreatorAddress
+  app_global_put
+
+  byte "Manager" 
+  addr   // set manager address
+  app_global_put
+
+  byte "Escrow"
+  global CreatorAddress
+  app_global_put
+
+  byte "Highest bid"
+  int 0
+  app_global_put
+
+  byte "for sale"
+  int 0
+  app_global_put
+
+  byte "Duration"
+  int 0
+  app_global_put
+
+  byte "End round"
+  int 0
+  app_global_put
+
+  byte "Highest bidder"
+  global CreatorAddress
+  app_global_put
+
+  int 1
+  return
+//
