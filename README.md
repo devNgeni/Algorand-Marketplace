@@ -29,4 +29,4 @@ DISCLAIMER: This is a demo codebase from our private repositories for the above 
 
 Relevant Blockchains: [Algorand]
 
-dApp Completion date: [03.02.2022]
+dApp Completion date: [February 03,2022]
