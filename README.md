@@ -23,3 +23,10 @@ Python
 MongoDB
 
 ![image_2022_04_08T18_09_51_173Z](https://user-images.githubusercontent.com/81178958/162506131-221e391d-0ecc-4ebc-8dca-601ffb63b83c.png)
+
+
+DISCLAIMER: This is a demo codebase from our private repositories for the above project. Contact us for more information if you find this dApp of interest.
+
+Relevant Blockchains: [Algorand]
+
+dApp Completion date: [03.02.2022]
